@@ -1,9 +1,9 @@
-👋 Olá! Eu sou o Mateus Chaves
+### 👋 Olá! Eu sou o Mateus Chaves
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por programação, tecnologia e projetos criativos
 
-🚀 Tecnologias que uso
+## 🚀 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,17 +12,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-📈 Atualmente estudando
+## 📈 Atualmente estudando
 
 - Estrutura de dados
 - Lógica de programação
 - APIs e integração com backend
 
-🛠️ Projetos em destaque
+## 🛠️ Projetos em destaque
 
 - 🔗 [HyStore](https://github.com/seuusuario/nome-do-repositorio)
 
-📫 Contato
+## 📫 Contato
 
 - ✉️ Email: mateusnchaves@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mateusnchaves/
