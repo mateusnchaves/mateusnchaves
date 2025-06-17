@@ -20,7 +20,7 @@
 
 ## 💻 Projetos em destaque
 
-- 🔗 [HyStore](https://github.com/seuusuario/nome-do-repositorio)
+- 🔗 [HyStore](https://github.com/mateusnchaves/HyStore)
 
 ## 📫 Contato
 
