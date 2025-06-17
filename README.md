@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Mateus Chaves
+# 👋 Olá! Eu sou o Mateus Chaves
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por programação, tecnologia e projetos criativos
