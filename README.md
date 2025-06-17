@@ -18,7 +18,7 @@
 - Lógica de programação
 - APIs e integração com backend
 
-## 🛠️ Projetos em destaque
+## 💻 Projetos em destaque
 
 - 🔗 [HyStore](https://github.com/seuusuario/nome-do-repositorio)
 
