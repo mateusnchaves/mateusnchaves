@@ -15,10 +15,8 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Facens**
-- 💼 Aprendiz na **Imbera Brasil**, onde crio automações para agilizar processos do dia a dia
 - 🛠️ Gosto de transformar tarefas repetitivas em ferramentas simples e úteis
 - 📍 Itu, SP — Brasil
-- 💡 Filosofia: *o básico bem feito vale mais que o complexo mal feito*
 
 ## 🚀 Tecnologias e Ferramentas
 
