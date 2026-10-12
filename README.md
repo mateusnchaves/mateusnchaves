@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Mateus Chaves 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Automatizando+processos+com+c%C3%B3digo;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=EsEstudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Automatizando+processos+com+c%C3%B3digo;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
