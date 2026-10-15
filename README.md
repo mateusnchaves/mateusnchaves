@@ -1,7 +1,7 @@
 <h1 align="center">Mateus Chaves</h1>
 
 <p align="center">
-  Desenvolvedor focado em <b>web</b>, <b>automação</b> e <b>dados</b> — construo aplicações e ferramentas que reduzem trabalho manual em processos reais.
+  Desenvolvedor focado em <b>full-stack</b>, <b>automação</b> e <b>dados</b> — construo aplicações e ferramentas que reduzem trabalho manual em processos reais.
 </p>
 
 <p align="center">
