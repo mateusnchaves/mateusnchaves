@@ -16,11 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,angular,tailwind,bootstrap&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,thunder,supabase,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,githubactions,vercel,supabase,sqlite&theme=dark" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel&theme=dark" />
-</p>
+
 
 ### Projetos
 
